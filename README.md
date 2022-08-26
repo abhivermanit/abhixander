@@ -1,3 +1,0 @@
-- 👋 Hi, I’m Abhishek
-- 👀 I’m interested in ML/AI/NLP/DL
-- 🌱 I’m currently learning ML/Python/AWS
